@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "https://www.google.com/search?q=get+device+audio+stream+javascript&rlz=1C1ONGR_enIN952IN952&oq=get+device+audio+stream+javascript&aqs=chrome..69i57j33i22i29i30.18279j1j7&sourceid=chrome&ie=UTF-8",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
